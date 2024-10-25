@@ -1,8 +1,9 @@
 # Python Data Structures and Notebooks
 
-## webmin-02-project
+## Title: webmin-02-project
 
 Anjana Dhakal, 10/25/2024
+
 Objectives: This exercise is used to reinforce key Python concepts including data structures, functions, and more. It offers practice with web-enabled Jupyter notebooks and lays some important foundations for web mining. 
 
 ## Copy and clone base repository 

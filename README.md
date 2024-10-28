@@ -19,9 +19,8 @@ to an external site.
 ## Export to HTML
 Export Using Jupyter Menu
 
-Use the Jupyter Notebook or JupyterLab interface menu:
-
-Try: File -> Save and Export As... -> HTML (It was not avaiable in file options, so I used three dotted line (...)near outliner and export as HTML.)
+I used more options (...) tap near outline in the home page of Jupyter Notebook and export as HTML.
+![alt text](image.png)
 
 ## Git add and commit
 ```

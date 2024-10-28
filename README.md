@@ -19,7 +19,7 @@ to an external site.
 ## Export to HTML
 Export Using Jupyter Menu
 
-I used more options (...) tap near outline in the home page of Jupyter Notebook and export as HTML.
+more options (...) tap near outline in the home page of Jupyter Notebook and export as HTML.
 ![alt text](image.png)
 
 ## Git add and commit
